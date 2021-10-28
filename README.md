@@ -7,13 +7,11 @@
 <h2 align="center">The Ultimate 50 Days Of Code</h2>
 
 
-The joy of reaching the destination is momentary, the real fun is in the journey. Habit Change. Learn how to successfully acquire good habits and how to quit bad ones. Make habit to learn something new and manage time.
+The joy of reaching the destination is momentary, the real fun is in the journey. Habit Change. Learn how to successfully acquire good habits and how to quit bad ones. Make habit to learn something new and manage time. 
 
 # What we will be covering
 
 During this 50 days We will covered 13+ topics from different difficulty levels and achieved 100 percentile time complexity 35 times. 
-
-
 
     1. Array 101
     2. Array and Strings
@@ -29,48 +27,19 @@ During this 50 days We will covered 13+ topics from different difficulty levels 
     12. Hash Table
     13. Decision Tree
 
-# Motivation
+# Join the discussion
 
-## People are noticing your work
-
-I was posting my journey on twitter since my first day of coding, One of my friends, Shreyans who is a Full Stack Javascript Developer, would like my tweet once in a while, apparently, he has been following my tweets and one day commented on one of my tweets, I was delighted to read his comment, Nothing matches a genuine appreciation from a friend.
-
-
-## Trolls are going to find you
-
-The following morning when I woke up, there was this notification about a comment on Twitter. That was my first encounter with a troll on twitter. As you move ahead in your journey you’ll begin seeing an ever-increasing number of comments from people saying inflammatory and offensive things but you shouldn’t let your journey effect from this because Trolls often don’t believe a word they write but say it anyway just to piss off anyone
-
-
-Join the discussion
 I would love to get some feedback here.
 
-How was your first week of learning Javascript?
-How do you deal with trolls?
-Do you have some good podcasts recommendations?
-Do you have a suggestion / or a recommendation I should follow?
-
-If someone is taking precious time out of their day to troll you, they are likely in a really low place. I feel bad for them most of the time. A troll want to take someone who appears successful and make them feel just a bit of the pain that they are feeling.
-
-The ones that are really hard to brush off are the ones that point out things that you already feel in the back of your mind. These will dig at you and really tear you down.
-
-
-Join the discussion
-I would love to get some feedback here.
-
-How was your experience of the first fifty days of coding?
-How do you balance your time?
-How do you manage your time effectively?
-
-
-
-Work Overload & Coding
-Sleep Deprivation
-Self Doubt
-
-
-I have also figured that one shouldn’t compare their journey to someone else, because they are in a different situation than you are, don’t take a lot of pressure thinking about how the other person got more followers on twitter, has more views or likes on a post or made a lot more cool stuff than you did.
-
-The only thing that is important here is your consistency and then Hard Work beats talent.
+<ul>
+    <li>How was your first week of learnig?</li>
+    <li>How do you deal with trolls?</li>
+    <li>Do you have some good podcasts recommendations?</li>
+    <li>Do you have a suggestion / or a recommendation I should follow?</li>
+    <li>How was your experience of the first fifty days of coding?</li>
+    <li>How do you balance your time?</li>
+    <li>How do you manage your time effectively?</li>
+</ul>
 
 
 # Resources
@@ -80,12 +49,14 @@ The only thing that is important here is your consistency and then Hard Work bea
 3. [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/)
 4. [Learneroo](https://www.learneroo.com/subjects/8)
 5. [Hands-On Data Structures and Algorithms with Javasricpt](https://drive.google.com/file/d/1K8J1zt4UZ_P4ey1H_IHysC9Dbpqz8wo3/view?usp=sharing)
-
+6. [Rehan Sattter series of Data Strucre blogs](https://rehansattar.dev/series/data-structures) 
 
 # Rules 
 
 
 # Kicking Off
+
+The only thing that is important here is your consistency and then Hard Work beats talent.
 
 ## Day 1-2
 
@@ -292,6 +263,7 @@ Before you start, bear in mind that should you have any questions or comments, y
 **link** https://leetcode.com/explore/learn/card/decision-tree/
 
 
+<h2 align="center">More to come</h2>
 
 
 
