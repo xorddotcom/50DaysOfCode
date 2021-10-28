@@ -1,24 +1,42 @@
 
-![xord_banner](https://user-images.githubusercontent.com/38910854/139008903-29dda3eb-cc8d-47a3-8bdf-b1f7dd86e460.jpg)
+<p align="center">
+    <a href="https://xord.com">
+    <img height="200px" src="https://user-images.githubusercontent.com/38910854/139008903-29dda3eb-cc8d-47a3-8bdf-b1f7dd86e460.jpg" class="attachment-full size-full" alt="xord banner" loading="lazy" /></a>
+</p>
 
-# 50DaysOfCode
+<h2 align="center">The Ultimate 50 Days Of Code</h2>
 
-Habit Change. Learn how to successfully acquire good habits and how to quit bad ones. Make habit to learn something new and manage time.
 
-## What we will be covering
+The joy of reaching the destination is momentary, the real fun is in the journey. Habit Change. Learn how to successfully acquire good habits and how to quit bad ones. Make habit to learn something new and manage time.
+
+# What we will be covering
 
 During this 50 days We will covered 13+ topics from different difficulty levels and achieved 100 percentile time complexity 35 times. 
 
-## Motivation
 
-The joy of reaching the destination is momentary, the real fun is in the journey
 
-#### People are noticing your work
+    1. Array 101
+    2. Array and Strings
+    3. Linked List
+    4. Recursion 1
+    5. Queue & Stack
+    6. Recursion 2
+    7. Binary Search
+    8. Binary Tree
+    9. N-ary Tree
+    10. Binary Search Tree
+    11. trie
+    12. Hash Table
+    13. Decision Tree
+
+# Motivation
+
+## People are noticing your work
 
 I was posting my journey on twitter since my first day of coding, One of my friends, Shreyans who is a Full Stack Javascript Developer, would like my tweet once in a while, apparently, he has been following my tweets and one day commented on one of my tweets, I was delighted to read his comment, Nothing matches a genuine appreciation from a friend.
 
 
-#### Trolls are going to find you
+## Trolls are going to find you
 
 The following morning when I woke up, there was this notification about a comment on Twitter. That was my first encounter with a troll on twitter. As you move ahead in your journey you’ll begin seeing an ever-increasing number of comments from people saying inflammatory and offensive things but you shouldn’t let your journey effect from this because Trolls often don’t believe a word they write but say it anyway just to piss off anyone
 
@@ -55,33 +73,19 @@ I have also figured that one shouldn’t compare their journey to someone else, 
 The only thing that is important here is your consistency and then Hard Work beats talent.
 
 
-##Resources
+# Resources
+
+1. [Hands-On Data Structures and Algorithms with Rust](https://drive.google.com/file/d/1HjHQOnpjY5rCCh0nGcd4YA0b4ZQxC4CP/view?usp=sharing)
+2. [VisualAlgo - Visual representations of algo](https://visualgo.net/en)
+3. [Geeks for Geeks](https://www.geeksforgeeks.org/data-structures/)
+4. [Learneroo](https://www.learneroo.com/subjects/8)
+5. [Hands-On Data Structures and Algorithms with Javasricpt](https://drive.google.com/file/d/1K8J1zt4UZ_P4ey1H_IHysC9Dbpqz8wo3/view?usp=sharing)
 
 
-
-## Discord channel of xord and channel thier
-
+# Rules 
 
 
-## Rules 
-
-## Topics we will cover 
-
-1. Array 101
-2. Array and Strings
-3. Linked List
-4. Recursion 1
-5. Queue & Stack
-6. Recursion 2
-7. Binary Search
-8. Binary Tree
-9. N-ary Tree
-10. Binary Search Tree
-11. trie
-12. Hash Table
-13. Decision Tree
-
-
+# Kicking Off
 
 ## Day 1-2
 
@@ -279,7 +283,8 @@ By completing this card, you will be able to:
 
     1. Understand the intuition behind decision tree.
     2. Implement the algorithm of decision tree.
-    3. Understand the important metrics (gini impurity, entropy) that involved in the process of decision tree construction.
+    3. Understand the important metrics (gini impurity, entropy) that involved in
+       the process of decision tree construction.
     4.Know how to evaluate the performance of decision tree model and the importance of input features.
 
 Before you start, bear in mind that should you have any questions or comments, you can always pose them in the Discussion forum that is located at the end of the card. We'll do our best to response to you as soon as we can.
