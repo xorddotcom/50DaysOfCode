@@ -51,7 +51,10 @@ I would love to get some feedback here.
 5. [Hands-On Data Structures and Algorithms with Javasricpt](https://drive.google.com/file/d/1K8J1zt4UZ_P4ey1H_IHysC9Dbpqz8wo3/view?usp=sharing)
 6. [Rehan Sattter series of Data Strucre blogs](https://rehansattar.dev/series/data-structures) 
 
-# Rules 
+## Contents
+
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
 
 # Kicking Off
 
