@@ -60,7 +60,7 @@ I would love to get some feedback here.
 
 The only thing that is important here is your consistency and then Hard Work beats talent.
 
-## Day 1-2
+## Day 1-3
 
 
 Arrays are a simple data structure for storing lots of similar items. They exist in all programming languages, and are used as the basis for most other data structures. On their own, Arrays can be used to solve many interesting problems. Arrays come up very often in interview problems, and so being a guru with them is a must!
@@ -75,7 +75,7 @@ After completing this Explore Card on Arrays, you will understand:
 
 **Link:** https://leetcode.com/explore/learn/card/fun-with-arrays/
 
-## Day 3-4
+## Day 4-6
 
 Array is one of the fundamental blocks in data structure. Since a string is just formed by an array of characters, they are both similar. Most interview questions fall into this category.
 
@@ -89,7 +89,7 @@ We will introduce array and string. After finishing this card, you should:
 
 **Link:** https://leetcode.com/explore/learn/card/array-and-string/
 
-## Day 5-7
+## Day 7-9
 
 In this card, we are going to introduce another data structure - Linked List. Similar to the array, the linked list is also a linear data structure.
 
@@ -106,7 +106,7 @@ We will introduce more in later chapters. After this card, you will:
 
 **Link:** https://leetcode.com/explore/learn/card/linked-list/
 
-## Day 8-9
+## Day 10-12
 
 Recursion is an important concept in computer science. It is a foundation for many other algorithms and data structures. However, the concept of recursion can be tricky to grasp for many beginners.
 
@@ -120,7 +120,7 @@ In this Explore card, we answer the following questions:
 
 **Link:** https://leetcode.com/explore/learn/card/recursion-i/
 
-## Day 9-11
+## Day 13-15
 
 We may access a random element by index in Array. However, we might want to restrict the processing order in some cases.
 
@@ -139,7 +139,7 @@ By completing this card, you should be able to:
 
 **Link:** https://leetcode.com/explore/learn/card/queue-stack/
 
-## Day 12-13
+## Day 16-18
 
 In this card, we will dive deeper into the theme of recursion. In particular, we will cover some paradigms that are often applied together with the recursion to solve some problems.
 
@@ -151,7 +151,7 @@ Here are list of topics that we will cover in this card:
 
 **Link:** https://leetcode.com/explore/learn/card/recursion-ii/
 
-## Day 14-16
+## Day 19-21
 
 In this card, we are going to help you understand the general concept of Binary Search.
 
@@ -167,7 +167,7 @@ Terminology used in Binary Search:
 
 **link** https://leetcode.com/explore/learn/card/binary-search/
 
-## Day 17-18
+## Day 22-24
 
 A tree is a frequently-used data structure to simulate a hierarchical tree structure.
 
@@ -183,7 +183,7 @@ By completing this card, you will be able to:
 
 **link** https://leetcode.com/explore/learn/card/data-structure-tree/
 
-## Day 19
+## Day 25
 
 In the previous article, we focused more on binary tree. This card extends the concept you have learned in binary tree to n-ary tree.
 
@@ -195,7 +195,7 @@ By completing this card, you will:
 
 **link** https://leetcode.com/explore/learn/card/n-ary-tree/
 
-## Day 20-21
+## Day 26-27
 
 A Binary Search Tree is a special form of a binary tree. The value in each node must be greater than (or equal to) any values in its left subtree but less than (or equal to) any values in its right subtree.
 
@@ -209,7 +209,7 @@ The goal of this card is to:
 
 **link** https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/
 
-## Day 22-23
+## Day 28-30
 
 Trie, also called prefix tree, is a special form of a Nary tree.
 
@@ -225,7 +225,7 @@ After completing this card, you should be able to:
 **link** https://leetcode.com/explore/learn/card/trie/
 
 
-## Day 24-26
+## Day 31-33
 
 Hash Table is a data structure which organizes data using hash functions in order to support quick insertion and search.
 
@@ -248,7 +248,7 @@ In this card, we will answer the following questions:
 
 **link** https://leetcode.com/explore/learn/card/hash-table/
 
-## Day 26-27
+## Day 34-35
 
 This card is intended to illustrate a classic algorithm for the classification problems in the domain of machine learning.
 
